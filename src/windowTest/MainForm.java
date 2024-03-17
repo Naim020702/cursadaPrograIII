@@ -89,5 +89,9 @@ public class MainForm {
 		textSumando2.setBounds(197, 104, 86, 20);
 		frame.getContentPane().add(textSumando2);
 		
+		JLabel lblNewLabel = new JLabel("Pequeña Sumadora");
+		lblNewLabel.setBounds(273, 213, 117, 13);
+		frame.getContentPane().add(lblNewLabel);
+		
 	}
 }
